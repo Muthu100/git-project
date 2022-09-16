@@ -1,0 +1,5 @@
+#all class project setings files
+*.class
+*.setting
+*.project
+
