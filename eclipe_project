@@ -1,0 +1,11 @@
+package my_project;
+
+
+public class eclipse_project {
+   
+       public static void main(strings args[]){
+              System.out.println("My eclipse project")
+       }
+}
+
+       
